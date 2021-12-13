@@ -22,13 +22,6 @@ export default function App() {
   );
 }
 
-const firstScreen = () => {
-  return (
-    <View>
-      <Text>HEllo</Text>
-    </View>
-  );
-};
 const styles = StyleSheet.create({
   container: {
     borderWidth: 2,
